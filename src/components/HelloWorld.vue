@@ -31,7 +31,7 @@ export default{
     </div>
 
     <div class="nav-on" :class="this.menuSideValue ? 'nav-on': 'nav-off'">
-
+      
     </div>
     
   </header>
